@@ -15,6 +15,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Todo App",
   description: "Simple to do app",
+  authors:[{name:"Kaushal Prakash"}],
 };
 
 export default function RootLayout({
